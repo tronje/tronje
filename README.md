@@ -1,5 +1,3 @@
-# readme
-
 ## about
 i'm a comp. sci. student at uni hamburg, and a software developer at jusst.engineering.
 
