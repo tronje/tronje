@@ -1,12 +1,12 @@
-## about
+## ℹ️ about
 i'm a comp. sci. student at uni hamburg, and a software developer at jusst.engineering.
 
-## topics
+## 📋 topics
 * embedded linux
 * audio streaming
 * mobile development
 
-## languages
+## 💾 languages
 <img align="left" alt="Rust" title="Rust" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
 <img align="left" alt="C" title="C" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 <img align="left" alt="C++" title="C++" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
@@ -16,7 +16,7 @@ i'm a comp. sci. student at uni hamburg, and a software developer at jusst.engin
 <br />
 <br />
 
-## tools
+## 🧰 tools
 <img align="left" alt="Git" title="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Docker" title="Docker" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="Bash" title="Bash" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
