@@ -1,5 +1,5 @@
 ## ℹ️ about
-i'm a comp. sci. student at uni hamburg, and a software developer at [jusst.engineering](https://jusst.engineering).
+i'm a software developer at [jusst.engineering](https://jusst.engineering).
 
 ## 📋 topics
 * embedded linux
